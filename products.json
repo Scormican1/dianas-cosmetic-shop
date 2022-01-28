@@ -1,0 +1,24 @@
+[
+    {
+      "brand": "Mac",
+      "itemName": "goodlips",
+      "price": 19.99,
+      "type": "Lipstick",
+      "color": "Red"  
+    },
+    {
+      "brand": "Kylie",
+      "itemName": "Dark shadows",
+      "price": 15.99,
+      "type": "eyeshadow",
+      "color": "Multi"  
+    },
+    {
+      "brand": "Almay",
+      "itemName": "Ultra Moist",
+      "price": 6.99,
+      "type":"Lotion",
+      "color": "Pink"  
+    }
+  ]
+  
