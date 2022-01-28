@@ -1,0 +1,24 @@
+[
+    {
+      "firstName": "Ronnie",
+      "lastName": "Daniels",
+      "email": "ronnie@bocacode.com",
+      "phoneNumber":"(561) 544-2121",
+      "address": "2121 state st. boca raton fl 33496"  
+    },
+      {
+        "firstName": "Sara ",
+        "lastName": "Cormican",
+        "email": "sara@bocacode.com",
+        "phoneNumber":"(561) 544-2122",
+        "address": "2121 state st. boca raton fl 33496",  
+      },
+      {
+        "firstName": "Sally",
+        "lastName": "Smith",
+        "email": "sally@gmail.com",
+        "phoneNumber":"(561) 544-2123",
+        "address": "2121 state st. boca raton fl 33496"  
+      }
+  ]
+  
